@@ -9,7 +9,7 @@
   "dependencies": {
     "@react-native-community/cameraroll": "^4.0.0",
     "react": "16.8.3",
-    "react-native": "0.59.10"
+    "react-native": "0.62.3"
   },
   "devDependencies": {
     "@babel/core": "^7.10.4",
